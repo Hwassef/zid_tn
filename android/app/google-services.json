@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182996275795",
+    "project_id": "tnzid-da5f3",
+    "storage_bucket": "tnzid-da5f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182996275795:android:7094ac2ba2ed7bb179eca6",
+        "android_client_info": {
+          "package_name": "com.example.tn_zid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182996275795-0u6fslrmv6jngu8606tvbsh77e6s6aro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFzj1UjfMwcRZcSUNV6D4ZX4iCKuViC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182996275795-0u6fslrmv6jngu8606tvbsh77e6s6aro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
